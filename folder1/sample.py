@@ -5,7 +5,7 @@ Intentionally large Python file for:
 - diff performance testing
 - merge conflict resolution
 - editor scrolling & cursor stability
-- move detection edge cases
+- move detection edge cases.........
 """
 
 import math
@@ -40,8 +40,8 @@ def log_warn(message: str):
     print(f"[WARN] {message}")
 
 # ============================================================
-# Core Math Utilities
-# ============================================================
+# Core Math Utilities......
+# =================================================================
 
 def slow_square(x: int) -> int:
     time.sleep(0.0001)
