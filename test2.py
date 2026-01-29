@@ -18,7 +18,7 @@ from typing import List, Dict, Any
 # ============================================================
 
 CONFIG = {
-    "timeout": 50001,
+    "timeout": 51002,
     "retries": 3,
     "log_level": "INFO",
     "enable_cache": True,
@@ -44,7 +44,7 @@ def log_warn(message: str):
 # ============================================================
 
 def slow_square(x: int) -> int:
-    time.sleep(0.0001)
+    time.sleep(0.0002)
     return x * x
 
 def slow_cube(x: int) -> int:
