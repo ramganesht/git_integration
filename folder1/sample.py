@@ -18,7 +18,7 @@ from typing import List, Dict, Any
 # ============================================================
 
 CONFIG = {
-    "timeout": 50001,
+    "timeout": 50001000,
     "retries": 3,
     "log_level": "INFO",
     "enable_cache": True,
@@ -26,7 +26,7 @@ CONFIG = {
 }
 
 # ============================================================
-# Logging Utilities
+# Logging Utilities....
 # ============================================================
 
 def log_debug(message: str):
