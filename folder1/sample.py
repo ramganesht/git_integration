@@ -18,8 +18,8 @@ from typing import List, Dict, Any
 # ============================================================
 
 CONFIG = {
-    "timeout": 50001000,
-    "retries": 3,
+    "timeout": 5000111,
+    "retries": 5,
     "log_level": "INFO",
     "enable_cache": True,
     "batch_size": 100
