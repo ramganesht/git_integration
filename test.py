@@ -44,11 +44,11 @@ def log_warn(message: str):
 # ============================================================
 
 def slow_square(x: int) -> int:
-    time.sleep(0.0001)
+    time.sleep(0.0001234)
     return x * x
 
 def slow_cube(x: int) -> int:
-    time.sleep(0.0001)
+    time.sleep(0.0001234)
     return x * x * x
 
 def noisy_value(x: float) -> float:
