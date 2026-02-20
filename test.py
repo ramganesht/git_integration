@@ -18,11 +18,11 @@ from typing import List, Dict, Any
 # ============================================================
 
 CONFIG = {
-    "timeout": 50002,
+    "timeout": 500030,
     "retries": 3,
     "log_level": "INFO",
     "enable_cache": True,
-    "batch_size": 100
+    "batch_size": 800
 }
 
 # ============================================================
