@@ -14,7 +14,7 @@ import time
 from typing import List, Dict, Any
 
 # ============================================================
-# Global Configuration (Conflict Hotspot...)
+# Global Configuration (Conflict Hotspot......)
 # ============================================================
 
 CONFIG = {
