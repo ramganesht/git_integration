@@ -18,7 +18,7 @@ from typing import List, Dict, Any
 # ============================================================
 
 CONFIG = {
-    "timeout": 500030,
+    "timeout": 5000,
     "retries": 3,
     "log_level": "INFO",
     "enable_cache": True,
