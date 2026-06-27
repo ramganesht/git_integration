@@ -1,0 +1,16 @@
+{
+  "runAs" : null,
+  "name" : "b1.job",
+  "description" : "",
+  "schedule" : null,
+  "continuous" : null,
+  "maxConcurrentRuns" : 1,
+  "gitConfig" : null,
+  "queue" : null,
+  "path" : "/Workspace/ram_git/test",
+  "jobClusters" : null,
+  "tasks" : null,
+  "parameters" : null,
+  "timeoutSeconds" : null,
+  "jobTag" : null
+}
